@@ -1,2 +1,2 @@
-reponame,git_provider,git_credential,APP_NAME
-account-validation,bitbucket,bitbucket-creds,trusthub-java
+reponame,git_provider,url,credential
+account-validation,bitbucket,https://bitbucket.org/transbnk/transbnk_account_validation.git,bitbucket-creds
