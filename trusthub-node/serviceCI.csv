@@ -1,0 +1,5 @@
+application,service,application_env,repo_id,repo_branch,job_template,dockerfile,context,environment_master,registry_name
+trusthub-node,user-web,dev,user-web,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,dev,transbnk-ecr
+trusthub-node,admin-web,dev,admin-web,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,dev,transbnk-ecr
+trusthub-node,api-agent,dev,api-agent,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,dev,transbnk-ecr
+trusthub-node,rule-engine,dev,rule-engine,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,dev,transbnk-ecr
