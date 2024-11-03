@@ -1,0 +1,2 @@
+application,service,application_env,repo_id,repo_branch,job_template,dockerfile,context,environment_master,registry_name
+xtendhub-node,ui,dev,ui,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,dev,transbnk-ecr

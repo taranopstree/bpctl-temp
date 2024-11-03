@@ -1,0 +1,2 @@
+reponame,git_provider,url,credential
+ui,bitbucket,https://bitbucket.org/xtendnach/xtend-web-s3.git,bitbucket-creds

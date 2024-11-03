@@ -1,5 +1,0 @@
-reponame,git_provider,url,credential
-user-web,bitbucket,https://bitbucket.org/transbnk/transbnk-user-web.git,bitbucket-creds
-admin-web,bitbucket,https://bitbucket.org/transbnk/transbnk-admin-web.git,bitbucket-creds
-api-agent,bitbucket,https://bitbucket.org/transbnk/transbnk-api-agent.git,bitbucket-creds
-rule-engine,bitbucket,https://bitbucket.org/transbnk/transbnk_rule_engine.git,bitbucket-creds
