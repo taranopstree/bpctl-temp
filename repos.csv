@@ -1,0 +1,2 @@
+reponame,git_provider,git_credential,APP_NAME
+account-validation,bitbucket,bitbucket-creds,trusthub-java
