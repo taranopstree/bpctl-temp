@@ -1,7 +1,7 @@
 application,service,application_env,repo_id,repo_branch,job_template,dockerfile,context,environment_master,registry_name
-xtendhub-java,upi-autopay-app,dev,upi-autopay-app,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,dev,transbnk-ecr
-xtendhub-java,upi-autopay-cron,dev,upi-autopay-cron,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,dev,transbnk-ecr
-xtendhub-java,upi-autopay-dc,dev,upi-autopay-dc,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,dev,transbnk-ecr
-xtendhub-java,nach-app,dev,nach-app,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,dev,transbnk-ecr
-xtendhub-java,nach-cron,dev,nach-cron,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,dev,transbnk-ecr
-xtendhub-java,nach-dc,dev,nach-dc,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,dev,transbnk-ecr
+xtendhub-java,upi-autopay-app,uat,upi-autopay-app,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,uat,transbnk-ecr
+xtendhub-java,upi-autopay-cron,uat,upi-autopay-cron,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,uat,transbnk-ecr
+xtendhub-java,upi-autopay-dc,uat,upi-autopay-dc,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,uat,transbnk-ecr
+xtendhub-java,nach-app,uat,nach-app,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,uat,transbnk-ecr
+xtendhub-java,nach-cron,uat,nach-cron,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,uat,transbnk-ecr
+xtendhub-java,nach-dc,uat,nach-dc,buildpiper-poc,devsecops-ci-v2,Dockerfile,.,uat,transbnk-ecr
